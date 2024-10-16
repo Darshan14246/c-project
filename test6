@@ -1,3 +1,5 @@
-test6
-test7
-test8
+dev.test(name){
+   echo "hey $(name)"
+git credentialsID: 'C-project' , url:https://github.com/Darshan14246/c-project/edit/main/test6
+sh " ls -lrt "
+}
